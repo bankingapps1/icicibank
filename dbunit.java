@@ -1,3 +1,3 @@
 i am updating this line in dev branch
 i am updating...
-hi team this file regards dbjava scriptings
+hello team this file regards dbjava scriptings
